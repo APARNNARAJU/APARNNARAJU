@@ -1,34 +1,53 @@
-
-on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/APARNNARAJU/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+               
+<div id="header" align="left">
+  <img src="https://img.shields.io/badge/SQL-0076D6?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
+  <img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <img src ="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  </a>
+  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+  </a>
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  </a>
+  <img src="https://img.shields.io/badge/Power_BI-008484?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
+  </a>
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  </a>
+</div>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&title_color=CD853F&icon_color=CD853F&text_color=E5E2E3&bg_color=000000"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark&background=000000)](https://git.io/streak-stats)
+
+## CONNECT ..
+
+<div align="center"> 
+ <a href="https://discord.com/users/913395650266296380" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/aparnnaraju" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/aparnnaraju/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/913395650266296380" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  ;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{APARNNARAJU}/count.svg" alt="APARNNARAJU :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APARNNARAJU&langs_count=10&theme=tokyonight&layout=compact" alt="APARNNARAJU :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&theme=synthwave" alt="APARNNARAJU :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.aparnnaraju.com"><img src="https://img.shields.io/badge/-aparnnaraju.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="www.linkedin.com/in/aparnnaraju"><img src="https://img.shields.io/badge/-Aparnna%20Raju-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aparnnaraju3@gmail.com"><img src="https://img.shields.io/badge/-2021cs.aparnna@sbcemail.in u-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/Aparnna R Raju"><img src="https://img.shields.io/badge/-@AparnnaRRaju?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/Amz Aparnna"><img src="https://img.shields.io/badge/-@AmzAparnnaC?style=flat&logo=Pinterest&logoColor=white"/></a>
-
-----
