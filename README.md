@@ -80,8 +80,9 @@ I am actively seeking opportunities where I can apply my technical skills, grow 
 ---
 
 ## 📄 Publication
-**Aparnna Raju**,  
-*“The Multiple Data Model Framework to Identify Unusual Patterns or Behaviors and Proactive Intervention”*  
+**Aparnna Raju**,   
+*[“The Multiple Data Model Framework to Identify Unusual Patterns or Behaviors and Proactive Intervention”](https://ieeexplore.ieee.org/document/11233385)*
+
 📌 **11th International Conference on Smart Computing and Communications (ICSCC)**  
 📌 **IEEE, 2025**
 
