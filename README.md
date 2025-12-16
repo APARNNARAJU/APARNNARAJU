@@ -1,21 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aparnna Raju</h1>
-<h3 align="center">B.Tech CSE | AI & Computer Vision | Full-Stack Developer</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aparnnaraju" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/913395650266296380" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
-  </a>
-</p>
+<h3 align="center">B.Tech CSE | AI | Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
-I am a **final-year Computer Science and Engineering student** passionate about building **AI-driven systems** and **scalable web applications**.  
-My interests lie in **Artificial Intelligence, Computer Vision, and Full-Stack Development**, with hands-on experience in real-time systems and production-ready applications.
+I am a **Computer Science Engineering graduate** with strong interests in **Artificial Intelligence and Full-Stack Development**.  
+I have hands-on experience building **real-time AI systems** and **scalable web applications** and I enjoy transforming complex problems into practical, efficient solutions.
+
+I am actively seeking opportunities where I can apply my technical skills, grow as an engineer, and contribute to impactful projects.
 
 ---
 
@@ -94,28 +87,22 @@ My interests lie in **Artificial Intelligence, Computer Vision, and Full-Stack D
 
 ---
 
-## 🏢 Internship Experience
-
-### Face in Technologies | *June 2024 – July 2024*  
-**Data Processing & Analysis Intern**
-- Data cleaning, validation, and missing value handling  
-- Train-test splitting and model performance improvement  
-- CSV & Excel processing using **Pandas**
-- Exploratory Data Analysis (EDA)
-
----
-
-## 🤝 Volunteer Experience
-- **Joint Treasurer**, IEEE CS SBCE *(2024–2025)*  
-- **Volunteer**, Hackbells 2.0 Hackathon *(2024)*
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark"/>
 </p>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APARNNARAJU&layout=compact&theme=dark" />
+</p>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+
 
 ---
 
