@@ -88,10 +88,6 @@ I am actively seeking opportunities where I can apply my technical skills, grow 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APARNNARAJU&layout=compact&theme=dark" />
