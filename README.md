@@ -1,54 +1,130 @@
-               
-<div id="header" align="left">
-  <img src="https://img.shields.io/badge/SQL-0076D6?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  </a>
-  <img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a>
-  <img src ="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  </a>
-  <img src ="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  </a>
-</div>
-<div id="header" align="left">
-<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aparnna Raju</h1>
+<h3 align="center">B.Tech CSE | AI & Computer Vision | Full-Stack Developer</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aparnnaraju" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Power_BI-008484?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
+  <a href="https://discord.com/users/913395650266296380" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  </a>
-</div>
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&title_color=CD853F&icon_color=CD853F&text_color=E5E2E3&bg_color=000000"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark&background=000000)](https://git.io/streak-stats)
-
-## CONNECT ..
-
-<div align="center"> 
- <a href="https://discord.com/users/913395650266296380" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/aparnnaraju" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/aparnnaraju/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.com/users/913395650266296380" alt="Discord" title="Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  ;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+---
 
+## 🚀 About Me
+I am a **final-year Computer Science and Engineering student** passionate about building **AI-driven systems** and **scalable web applications**.  
+My interests lie in **Artificial Intelligence, Computer Vision, and Full-Stack Development**, with hands-on experience in real-time systems and production-ready applications.
 
+---
 
+## 🧠 Technical Skills
 
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
+### 🌐 Web & App Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+</p>
 
+### 🗄 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-0076D6?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+</p>
 
+---
 
+## 📌 Projects
+
+### 🔍 AI-Based Surveillance System (Major Project)
+- Real-time detection of **suspicious activities, fights, weapons, and animal intrusions**
+- Built using **CNN + LSTM** on CCTV video streams  
+- **92% accuracy**, ~**13 FPS** real-time processing  
+- Automated alerts with **timestamp, location, and snapshots**  
+- Reduced manual monitoring and improved situational awareness  
+
+**Tech:** Python, OpenCV, Deep Learning, Computer Vision
+
+---
+
+### 🖐 AI Virtual Mouse (Mini Project)
+- Gesture-controlled virtual mouse using **hand tracking**
+- Enabled **cursor movement, clicks, and scrolling**
+- Touchless and ergonomic interaction system  
+
+**Tech:** Python, OpenCV, MediaPipe
+
+---
+
+### 🌐 MERN Stack Web Application
+- Full-stack web app with **authentication and CRUD operations**
+- Responsive React frontend with reusable components  
+- Scalable backend APIs using Node.js & Express  
+- MongoDB for efficient data handling  
+
+**Tech:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 📱 Flutter Applications
+- Built Flutter apps focusing on **UI design and navigation**
+- Clean architecture and smooth user experience  
+
+**Tech:** Flutter, Dart
+
+---
+
+## 📄 Publication
+**Aparnna Raju**,  
+*“The Multiple Data Model Framework to Identify Unusual Patterns or Behaviors and Proactive Intervention”*  
+📌 **11th International Conference on Smart Computing and Communications (ICSCC)**  
+📌 **IEEE, 2025**
+
+---
+
+## 🏢 Internship Experience
+
+### Face in Technologies | *June 2024 – July 2024*  
+**Data Processing & Analysis Intern**
+- Data cleaning, validation, and missing value handling  
+- Train-test splitting and model performance improvement  
+- CSV & Excel processing using **Pandas**
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 🤝 Volunteer Experience
+- **Joint Treasurer**, IEEE CS SBCE *(2024–2025)*  
+- **Volunteer**, Hackbells 2.0 Hackathon *(2024)*
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=APARNNARAJU&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=APARNNARAJU&theme=dark"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aparnnaraju">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+  </a>
+  <a href="https://discord.com/users/913395650266296380">
+    <img src="https://img.shields.io/badge/Discord-Chat-purple?style=for-the-badge"/>
+  </a>
+</p>
