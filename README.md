@@ -1,12 +1,13 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aparnna Raju</h1>
 <h3 align="center">B.Tech CSE | AI | Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 About Me
-I am a **Computer Science Engineering graduate** with strong interests in **Artificial Intelligence and Full-Stack Development**.  
-I have hands-on experience building **real-time AI systems** and **scalable web applications** and I enjoy transforming complex problems into practical, efficient solutions.
+
+I am a Computer Science Engineering graduate with strong interests in Artificial Intelligence and Full-Stack Development.
+
+I have hands-on experience building real-time AI systems and scalable web applications, and I enjoy transforming complex problems into practical, efficient solutions.
 
 I am actively seeking opportunities where I can apply my technical skills, grow as an engineer, and contribute to impactful projects.
 
@@ -15,100 +16,97 @@ I am actively seeking opportunities where I can apply my technical skills, grow 
 ## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web & App Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-</p>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🗄 Databases & Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-0076D6?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-</p>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📌 Projects
 
 ### 🔍 AI-Based Surveillance System (Major Project)
-- Real-time detection of **suspicious activities, fights, weapons, and animal intrusions**
-- Built using **CNN + LSTM** on CCTV video streams  
-- **92% accuracy**, ~**13 FPS** real-time processing  
-- Automated alerts with **timestamp, location, and snapshots**  
-- Reduced manual monitoring and improved situational awareness  
+
+- Real-time detection of suspicious activities, fights, weapons, and animal intrusions
+- Built using CNN + LSTM on CCTV video streams
+- 92% accuracy, ~13 FPS real-time processing
+- Automated alerts with timestamp, location, and snapshots
+- Reduced manual monitoring and improved situational awareness
 
 **Tech:** Python, OpenCV, Deep Learning, Computer Vision
 
----
-
 ### 🖐 AI Virtual Mouse (Mini Project)
-- Gesture-controlled virtual mouse using **hand tracking**
-- Enabled **cursor movement, clicks, and scrolling**
-- Touchless and ergonomic interaction system  
+
+- Gesture-controlled virtual mouse using hand tracking
+- Enabled cursor movement, clicks, and scrolling
+- Touchless and ergonomic interaction system
 
 **Tech:** Python, OpenCV, MediaPipe
 
----
-
 ### 🌐 MERN Stack Web Application
-- Full-stack web app with **authentication and CRUD operations**
-- Responsive React frontend with reusable components  
-- Scalable backend APIs using Node.js & Express  
-- MongoDB for efficient data handling  
+
+- Full-stack web app with authentication and CRUD operations
+- Responsive React frontend with reusable components
+- Scalable backend APIs using Node.js & Express
+- MongoDB for efficient data handling
 
 **Tech:** MongoDB, Express.js, React.js, Node.js
 
----
-
 ### 📱 Flutter Applications
-- Built Flutter apps focusing on **UI design and navigation**
-- Clean architecture and smooth user experience  
+
+- Built Flutter apps focusing on UI design and navigation
+- Clean architecture and smooth user experience
 
 **Tech:** Flutter, Dart
 
 ---
 
 ## 📄 Publication
-**Aparnna Raju**,   
-*[“The Multiple Data Model Framework to Identify Unusual Patterns or Behaviors and Proactive Intervention”](https://ieeexplore.ieee.org/document/11233385)*
 
-📌 **11th International Conference on Smart Computing and Communications (ICSCC)**  
-📌 **IEEE, 2025**
+Aparnna Raju,
+[“The Multiple Data Model Framework to Identify Unusual Patterns or Behaviors and Proactive Intervention”](https://ieeexplore.ieee.org/document/11233385)
+
+📌 11th International Conference on Smart Computing and Communications (ICSCC)
+📌 IEEE, 2025
 
 ---
 
 ## 📊 GitHub Stats
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=APARNNARAJU&theme=dark" /> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=APARNNARAJU&theme=github-dark" />
+
+<!-- Generated by .github/workflows/profile-summary.yml and saved in this repo.
+     Appear after the Action runs once (Actions tab -> Generate stats cards -> Run workflow). -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APARNNARAJU&layout=compact&theme=dark&hide=jupyter%20notebook,cmake&langs_count=6" />
+  <img width="49%" src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" />
+  <img width="49%" src="profile-summary-card-output/default/3-stats.svg" alt="Stats" />
 </p>
-
-
-
-
-
+<p align="center">
+  <img width="49%" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per language" />
+  <img width="49%" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most commit language" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/aparnnaraju">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-  </a>
-  <a href="https://discord.com/users/913395650266296380">
-    <img src="https://img.shields.io/badge/Discord-Chat-purple?style=for-the-badge"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aparnnaraju))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparnnaraju3@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.com/users/YOUR_DISCORD_ID](https://discord.com/users/913395650266296380))
